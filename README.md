@@ -3,7 +3,7 @@
 **OFPPT Grade Calculator** est une application de bureau légère et  qui permet intuitive de calculer automatiquement la **moyenne générale du diplôme OFPPT**,  
 Elle est disponible avec une **interface graphique moderne** (Tkinter ou PyQt).
 
-![screenshot](assets/screenshot1.png)
+![screenshot](assests/Screenshot1.png)
 
 ---
 
